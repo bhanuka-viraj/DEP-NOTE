@@ -1,0 +1,4 @@
+|  |  |
+| ---- | ---- |
+| String  type data conversion | ![[Pasted image 20240212131732.png]]<br>In here expression is convert into string data type.<br><br>if expression is a reference data type then it is converted into string using toString() api.<br> |
+| ==What is the reason for <br>error in first sop== | ![[Pasted image 20240212132258.png]]<br><br><br>![[Pasted image 20240212132557.png]]<br><br>first sop => end result of x and 10 is double. Then double type and memory location going to evaluate. But there is no context type to do that. This why it is encountered a error.<br><br>second sop => end result of x and 10 is double. Then double type and string type going to evaluate and end result is string. Then string type and memory location going to evaluate and end result is string. <br>Memory location is converted into string using toString() method.<br><br> |

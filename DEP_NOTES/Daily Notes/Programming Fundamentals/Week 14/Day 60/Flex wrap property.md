@@ -1,0 +1,9 @@
+flex wrap is a flex - container properties
+
+|                                                                                   | Flex Wrap Property                                                                                                                                    |
+| --------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------- |
+| what is the default<br>state of `flex-wrap`                                       | `no-wrap`                                                                                                                                             |
+| how does the flex<br>layout work when<br>the `flex-wrap`<br>is `no-wrap`          | Elements are placed on the flex line reducing the size of <br>the flex items without creating a new flex-line<br>![[Pasted image 20240515124646.png]] |
+| How does the <br>flex layout work<br>when the<br>`flex-warp` is <br>set to `wrap` | ![[Pasted image 20240515125001.png]]                                                                                                                  |
+| how does the <br>`wrap-reverse`<br>work                                           | ![[Pasted image 20240515124818.png]]                                                                                                                  |
+| note:                                                                             | If the `flex-wrap` is set to the `no-wrap` then new flex line is<br>not created                                                                       |

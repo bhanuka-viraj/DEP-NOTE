@@ -1,0 +1,1 @@
+Secure boot is a security standard developed by members of the PC industry to help make sure that a device boots using only software that is trusted by the Original Equipment Manufacturer (OEM). When the PC starts, the ﬁrmware checks the signature of each piece of boot software. If the signatures are valid, the PC boots, and the ﬁrmware gives control to the operating system.

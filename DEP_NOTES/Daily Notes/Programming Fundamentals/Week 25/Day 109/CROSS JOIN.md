@@ -1,0 +1,1 @@
+This gives the Cartesian product between the two relations

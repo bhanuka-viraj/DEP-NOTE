@@ -1,0 +1,3 @@
+|     |                                                                                                                                                                                                          |
+| --- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+|     | // Boxing Conversion Optionally Followed By Widening Reference Conversion<br><br>    Short s = 10;<br>    Number s2 = 10;<br>    Object o3 = 10;<br>    Serializable s4 = 10;<br>    Comparable c5 = 10; |

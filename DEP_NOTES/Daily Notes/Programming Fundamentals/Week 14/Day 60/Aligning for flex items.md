@@ -1,0 +1,2 @@
+| How to align <br>the flex item | use the property -><br><br>`align-self:`<br><br>can be all values for the align all item. Cross alignment of the <br>flex container can be overridden using the align-self |
+| ------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |

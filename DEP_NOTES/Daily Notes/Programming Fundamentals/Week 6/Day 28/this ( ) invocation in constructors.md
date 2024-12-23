@@ -1,0 +1,15 @@
+
+|                                                               |                                                                                                                                                                                                                                                                                                                            |
+| ------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| rules for this invocation                                     | this ( ) invocation should be in the first line of the constructor<br><br>this ( ) invocation is used to call a another constructor in the same class<br><br>at least  there should be a one constructor with the super( ) invocation. Otherwise constructor chain is not continued and also lead to compile error<br><br> |
+| ==is invisible line executed just after the this invocation== | No. Invisible line only execute just after the super( )<br>invocation.                                                                                                                                                                                                                                                     |
+| oop -44 - exercise 4                                          | gitHub link -> https://github.com/IJSE-Direct-Entry-Program-12/object-oriented-programming/blob/main/oop-44/src/exercise_4/AppInitializer.java<br><br>![[Pasted image 20240307172454.png]]                                                                                                                                 |
+| oop - 44 - exercise 5                                         | gitHub link -> https://github.com/IJSE-Direct-Entry-Program-12/object-oriented-programming/blob/main/oop-44/src/exercise_5/AppInitializer.java                                                                                                                                                                             |
+| oop - 44 - exercise 3                                         | gitHub link -> https://github.com/IJSE-Direct-Entry-Program-12/object-oriented-programming/blob/main/oop-44/src/exercise_3/AppInitializer.java                                                                                                                                                                             |
+
+
+ oop - 44 - exercise 6
+ 
+ gitHub link -> https://github.com/IJSE-Direct-Entry-Program-12/object-oriented-programming/blob/main/oop-44/src/exericse_6/AppInitializer.java
+ 
+![[Pasted image 20240307191018.png]]

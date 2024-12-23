@@ -1,0 +1,4 @@
+
+|                             |                                                                                                                                                                                                                                                                          |
+| --------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| What is Unboxing Conversion | When primitive data type take from a wrapper class it is called unboxing.<br><br>int y = myInt().int value();<br><br>==process of converting an object of a wrapper class to its corresponding primitive type.==<br><br>![[Pasted image 20240212180035.png]]<br><br><br> |

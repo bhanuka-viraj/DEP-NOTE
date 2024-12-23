@@ -1,0 +1,1 @@
+Swap is a type of partition that the system uses as virtual memory. This means that the partition is used as an overﬂow for system memory (RAM), allowing the system to move infrequently accessed data in the RAM to the swap partition to free up memory for more frequently needed data.

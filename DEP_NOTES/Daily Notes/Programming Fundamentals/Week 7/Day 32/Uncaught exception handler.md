@@ -1,0 +1,1 @@
+add notes about uncaught exception handle

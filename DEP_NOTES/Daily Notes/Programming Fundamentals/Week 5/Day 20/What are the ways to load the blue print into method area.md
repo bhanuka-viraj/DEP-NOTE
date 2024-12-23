@@ -1,0 +1,4 @@
+
+|     |                                                                                                                                                                                                                                                                                                                     |
+| --- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+|     | 1. When create a instance<br>If the blueprint is not loaded it cannot be created a instance<br><br>2. When access a static member<br>static members are in the blue print. If it not loaded then cannot be accessed<br>Implicitly load the blue print<br><br>3.Class.forName( ) -> to explicitly load the blueprint |

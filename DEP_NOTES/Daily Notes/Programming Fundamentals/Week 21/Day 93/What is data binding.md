@@ -1,0 +1,1 @@
+**Data binding** in Angular is a technique that allows you to synchronize data between the component's class (the TypeScript code) and its template (the HTML code). Angular provides multiple ways to achieve data binding:

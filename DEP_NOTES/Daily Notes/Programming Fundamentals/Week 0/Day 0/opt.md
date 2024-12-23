@@ -1,0 +1,1 @@
+Soft wares are installed in this directory. Also in user => local location can be used for software installation. 

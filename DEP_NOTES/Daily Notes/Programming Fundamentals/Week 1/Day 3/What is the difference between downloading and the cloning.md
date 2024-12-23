@@ -1,0 +1,1 @@
+If it is downloaded it is just a file. But if it is cloned , all data are created in the local storage including local repositories with commits,remote repositories and history. Then works can be continued as same as a own repository. With the clone remote repository is created automatically.

@@ -1,0 +1,1 @@
+User has a sub folder called bin. Every application is executed in here. 

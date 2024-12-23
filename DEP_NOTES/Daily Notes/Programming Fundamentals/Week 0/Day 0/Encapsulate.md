@@ -1,0 +1,1 @@
+The shell encapsulates the kernel to provide users with a higher-level, user-friendly interface to the operating system. It abstracts away the complexity of the kernel, interprets user commands, and facilitates communication between users and the core functionalities of the operating system.

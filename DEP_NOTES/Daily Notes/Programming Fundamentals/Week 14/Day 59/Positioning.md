@@ -1,0 +1,10 @@
+![[Pasted image 20240514130354.png]]
+
+|                                                                                            |                                                                                                                                                                |
+| ------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| What is the difference between Positioned Element and the statically<br>positioned element | In positioned element left, top, right, bottom properties are<br>in active state.<br><br>In static element left,top,right and bottom are in inactive <br>state |
+| [[Relative]]                                                                               |                                                                                                                                                                |
+| [[Absolute]]                                                                               |                                                                                                                                                                |
+| [[Fixed]]                                                                                  |                                                                                                                                                                |
+| [[Sticky]]                                                                                 |                                                                                                                                                                |
+|                                                                                            |                                                                                                                                                                |

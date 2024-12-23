@@ -1,0 +1,6 @@
+
+|                                                           |                                                                                                                                                                                                                                                                           |
+| --------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| What happen when<br>the position is set to<br>the `fixed` | 1. Leave from the normal flow layout.Then others <br>elements are comes to the fill the space.<br><br>2.Then there is no width or height specified then adjust <br>to the height and width of the content<br><br>3. Then coordinates are set to relative to the view port |
+|                                                           |                                                                                                                                                                                                                                                                           |
+[[Transform with Fixed]]

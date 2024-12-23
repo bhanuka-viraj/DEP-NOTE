@@ -1,0 +1,7 @@
+
+![[Pasted image 20240519104732.png]]
+
+|                               |                                                                                                                                                                                                                                                                                                                            |
+| ----------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| What are the button <br>types | 1.`Submit` -> Take the data of the form and send<br>(only works with forms)<br>2.`reset` -> Clear the form(only work with forms)<br>3.`button` -> This type is used with the js<br><br>Default type of the button is submit. When the button<br>is being used with js, it necessary to set the button type <br>to `button` |
+|                               |                                                                                                                                                                                                                                                                                                                            |

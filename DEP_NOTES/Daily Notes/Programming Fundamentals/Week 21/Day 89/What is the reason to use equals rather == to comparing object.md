@@ -1,0 +1,1 @@
+equals( ) and both == use the euqality of the memory location in default. But equals() can be used the check equality of the states of the objects after override it

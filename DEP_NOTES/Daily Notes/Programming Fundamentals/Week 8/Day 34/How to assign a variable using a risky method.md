@@ -1,0 +1,4 @@
+
+|     |                                                                                                                                                                                                                                                                                                          |
+| --- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+|     | Using the instance or static initializers<br><br>It is not possible to put a try catch directly when assigned a variable with a risky method. But  static and instance initializers are allowed to do that<br><br>==This is a also use of the initializers==<br><br>![[Pasted image 20240319122631.png]] |

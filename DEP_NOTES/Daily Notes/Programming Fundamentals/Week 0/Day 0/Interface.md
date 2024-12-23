@@ -1,0 +1,2 @@
+An interface is a shared boundary that facilitates interaction and communication between two distinct entities, while concealing or encapsulating the inner workings or details of one side from the
+other.

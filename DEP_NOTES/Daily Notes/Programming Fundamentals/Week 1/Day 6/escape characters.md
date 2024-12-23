@@ -1,0 +1,4 @@
+
+| | |
+| --- | --- |
+| escape characters | \r =>to go back to all the previous characters. <br>      (carriage return)<br>\b => only one character came to back. In some terminal this happened backspacing and some terminal this happened without backspacing, just move to the  back<br>\n => add a new line<br>\t =>add a tab<br>\s => display a space (work as display button)<br>\f => add a page break (form feed)<br><br>above escape characters are coupled with OS(comes with os). Not with the java<br> <br>below characters are specified for java<br>\\\ => to escape the black slash. Because backslash cannot be used in alone<br><br>\\" => to add a another double quot to a string literal double quot<br><br>\\' => to add a single quot into a char literal.<br><br><br>https://docs.oracle.com/javase/specs/jls/se21/html/jls-3.html#jls-3.10.7 |

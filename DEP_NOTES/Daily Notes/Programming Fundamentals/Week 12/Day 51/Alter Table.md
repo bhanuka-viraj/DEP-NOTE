@@ -1,0 +1,6 @@
+
+|                                      |                                                                                                                                                                                                          |
+| ------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| What is the syntax<br>of alter table | ![[Pasted image 20240502144113.png]]<br><br>![[Pasted image 20240502144653.png]]<br><br>As a good practice in relational data  bases tables are not altered later. But is used in the data base creation |
+| How to alter Table                   | ![[Pasted image 20240502144615.png]]                                                                                                                                                                     |
+|                                      |                                                                                                                                                                                                          |

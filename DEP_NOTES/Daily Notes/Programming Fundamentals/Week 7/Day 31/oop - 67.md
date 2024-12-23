@@ -1,0 +1,6 @@
+
+|                                                                                                                                  |                                                                                                                                                                                                                                                                                   |
+| -------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Explain this code<br>what is the reason not to override <br>myMethod( ) in the super class<br>(private methods are not override) | add gitLInk here =><br><br>myMethod( ) in super class is private. priavte members are not override. This is the reason myMethod( ) in super class not gonna override by the myMethod( ) in the sub class.<br><br>use @override annotation to verify the method is override or not |
+![[Pasted image 20240313112102.png]]
+![[Pasted image 20240313112123.png]]

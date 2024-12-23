@@ -1,0 +1,3 @@
+|                                    |                                                                                                                                                                                                                |
+| ---------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| What are the literal for<br>Stings | 1. " " =>  double quotes<br><br>2. """  """  => t ext templates / text blocks<br>   this is available since java 12. This gives ability to use multiple lines.<br><br>![[Pasted image 20240131162319.png]]<br> |

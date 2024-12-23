@@ -1,0 +1,1 @@
+The kernel is a computer program at the core of a computer's operating system and generally has complete control over everything in the system. It is the portion of the operating system code that is always resident in memory and facilitate interactions between hardware and software components.
